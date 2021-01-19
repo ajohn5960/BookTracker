@@ -1,4 +1,4 @@
-# BookTracker GUI
+# Book Tracker GUI
 Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
 - add, update, delete books to booklist
 - find and add books from Google Books
