@@ -77,21 +77,7 @@ class StatsMenu(Frame):
                     final_list.append(genre)
         return final_list
 
-    
-    def genre_list_to_dict(self, genre_list):
-        genre_not_specified = 'Rating Not Specified'
-        genre_count_dict = {genre_not_specified: 0}
-        for genre_tuple in genre_list:
-                for genre in genre_tuple:
-                    if genre == '-':
-                        genre_count_dict[genre_not_specified] += 1
-                    else:
-                        genre_count_dict[genre] += 1
-
-                       
-        return genre_count_dict
-
-
+  
     def book_count_by_genre(self, genre_list):
         genre_dict = { }
         for genre in genre_list:
