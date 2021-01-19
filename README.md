@@ -17,7 +17,7 @@ Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
 - images of book thumbnails
 - fix radio buttons
 
-## Book Tracker GUI Demo
+## Book Tracker GUI Demo Video
  [![Watch the video]( https://img.youtube.com/vi/1D2Ai7z_xNg/0.jpg)](https://youtu.be/1D2Ai7z_xNg)
  
 ## Resources
