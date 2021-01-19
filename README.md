@@ -23,9 +23,11 @@ Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
 ## Resources
 project inspired by this video:
 - https://www.youtube.com/watch?v=YXPyB4XeYLA
+<a/>
 pie chart: 
 - https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py
 - https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
+<a/>
 bar graph: 
 - https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
 
