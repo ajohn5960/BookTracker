@@ -2,7 +2,7 @@
 Made with TKinter, Matplotlib, and sqlite3 module in Python Standard Library:
 - add, update, delete books to booklist
 - find and add books from Google Books
-- get reading stats in a form of pie chart, bar graph, and table
+- get reading stats in a form of a pie chart, a bar graph, and a table
 
 ## What I learned
 - designed and placed elements on the GUI using TKinter
