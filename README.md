@@ -1,6 +1,6 @@
 # Book Tracker GUI
 Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
-- add, update, delete books in booklist
+- add, update, delete books in book list
 - find and add books from Google Books
 - get reading stats in a form of a pie chart, a bar graph, and a table
 
