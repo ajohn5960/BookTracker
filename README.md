@@ -12,7 +12,7 @@ Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
 - retrieved JSON data from Google Books API and parsed through it
 
 ## What I would like to add
--	books to read list
+-	checkboxes for selecting books
 - timeline of when the books were read
 - images of book thumbnails
 - fix radio buttons
