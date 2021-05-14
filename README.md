@@ -21,14 +21,13 @@ Made with Tkinter, Matplotlib, and sqlite3 module in Python Standard Library:
  [![Watch the video]( https://img.youtube.com/vi/1D2Ai7z_xNg/0.jpg)](https://youtu.be/1D2Ai7z_xNg)
  
 ## Resources
-- project inspired by this video:
-     - https://www.youtube.com/watch?v=YXPyB4XeYLA
+- project inspired by [this Tkinter tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
      
-- pie chart: 
-     - https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py
-     - https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
+- matplotlib pie charts: 
+     - learned about creating a pie chart by looking at [this example code](https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py)
+     - learned about how to label a pie chart from [this example](https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py)
      
-- bar graph: 
-     - https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
+- matplotlib bar graph: 
+     - learned about how to create a bar graph from [this example code](https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py)
 
 
